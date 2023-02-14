@@ -1,0 +1,28 @@
+{
+  "name": "randompack_messages",
+  "version": "1.0.0",
+  "description": "Random Messages using strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoGonzz/randompack_messages.git"
+  },
+  "keywords": [],
+  "author": "Nicolas Gonzalez <juannicolas28@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicoGonzz/randompack_messages/issues"
+  },
+  "homepage": "https://github.com/NicoGonzz/randompack_messages#readme",
+  "bin": {
+    "randompack_messages": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "0.0.0"
+  }
+}
